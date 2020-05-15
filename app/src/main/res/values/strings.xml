@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParcialMovil</string>
+    <string name="title_activity_listado">Listado_Canciones</string>
+    <string name="title_activity_agregar_cancion">Agregar_Cancion</string>
+</resources>
